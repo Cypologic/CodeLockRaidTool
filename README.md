@@ -1,4 +1,4 @@
-# CodeLockRaidTool
+# CodeLockRaidTool for Rust
 A tool for codelock raiding in rust with the top 10k Code list and progress save.
 
 Use pip install to install the missing modules.
