@@ -5,3 +5,5 @@ Use pip install to install the missing modules.
 Run it with python code.py, it will open up an menu.
  
 Press F2 to enter the Code while the Code Entery is open.
+
+#Recommend to use with Geforce Now
